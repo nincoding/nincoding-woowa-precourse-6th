@@ -6,7 +6,9 @@
 
 <br>
 
-| 주차                                        | 미션             | 저장소                                                                                       | 학습 키워드                                                         |
-| :------------------------------------------ | :--------------- | :------------------------------------------------------------------------------------------- | :------------------------------------------------------------------ |
-| 1주차 온보딩 <br> [2023.10.19 - 2023.10.25] | 숫자 야구 게임   | [javascript-baseball-6](https://github.com/nincoding/javascript-baseball-6/tree/nincoding)   | - OOP <br> - MVC <br> - TDD <br> - JS코드 컨벤션 <br> - 의존성 주입 |
-| 2주차 <br> [2023.10.26 - 2023.11.01]        | 자동차 경주 게임 | [javascript-racingcar-6](https://github.com/nincoding/javascript-racingcar-6/tree/nincoding) | - 상속 <br> - 인터페이스 <br> - 옵저버 패턴 <br> - EOL과 포맷터     |
+| 주차                                        | 미션                | 저장소                                                                                       | 학습 키워드                                                              |
+| :------------------------------------------ | :------------------ | :------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------- |
+| 1주차 온보딩 <br> [2023.10.19 - 2023.10.25] | 숫자 야구 게임      | [javascript-baseball-6](https://github.com/nincoding/javascript-baseball-6/tree/nincoding)   | - OOP <br> - MVC 패턴 <br> - TDD <br> - JS코드 컨벤션 <br> - 의존성 주입 |
+| 2주차 <br> [2023.10.26 - 2023.11.01]        | 자동차 경주 게임    | [javascript-racingcar-6](https://github.com/nincoding/javascript-racingcar-6/tree/nincoding) | - 옵저버 패턴 <br> - EOL과 포맷터                                        |
+| 3주차 <br> [2023.11.02 - 2023.11.08]        | 로또                | [javascript-lotto-6](https://github.com/nincoding/javascript-lotto-6/tree/nincoding)         | - 재귀호출 <br> - 무한루프 <br> - 클래스와 객체                          |
+| 4주차 <br> [2023.11.09 - 2023.11.15]        | 크리스마스 프로모션 | 비공개 레포 진행                                                                             | - 상속 <br> - MVVM 패턴 <br> - 비공개와 정적 필드 <br>                   |
